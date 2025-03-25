@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#fjfjfjfjfjfjfj
 # Definir la función g(x) para el método de punto fijo
 def g(x):
     return (x**2 + 1) / 3  # Transformación de x^2 - 3x + 1 = 0
